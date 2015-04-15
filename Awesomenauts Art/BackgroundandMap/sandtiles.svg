@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="350"
+   height="70"
+   id="svg78357"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="sandtiles.svg">
+  <defs
+     id="defs78359">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient100070">
+      <stop
+         style="stop-color:#d4aa00;stop-opacity:1;"
+         offset="0"
+         id="stop100072" />
+      <stop
+         style="stop-color:#ffd42a;stop-opacity:1"
+         offset="1"
+         id="stop100074" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient100070"
+       id="linearGradient100076"
+       x1="34.107143"
+       y1="10.178572"
+       x2="35.17857"
+       y2="67.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,982.3622)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient100070"
+       id="linearGradient100080"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1.2536743e-6,982.36217)"
+       x1="34.107143"
+       y1="10.178572"
+       x2="35.17857"
+       y2="67.5" />
+    <filter
+       id="filter100082"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence100084"
+         type="fractalNoise"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix100088" />
+      <feColorMatrix
+         id="feColorMatrix100090"
+         type="saturate"
+         values="0"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       id="filter100086"
+       inkscape:label="filter2" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="45.9005"
+     inkscape:cy="27.490144"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     objecttolerance="1"
+     guidetolerance="1"
+     gridtolerance="6">
+    <inkscape:grid
+       type="xygrid"
+       id="grid78365"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="70px"
+       spacingy="70px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata78362">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-982.36218)">
+    <rect
+       style="fill:url(#linearGradient100076);fill-opacity:1;stroke:none"
+       id="rect84081"
+       width="70"
+       height="70"
+       x="0"
+       y="982.36218" />
+    <rect
+       style="fill:#806600;fill-opacity:1;stroke:none"
+       id="rect84083"
+       width="70"
+       height="9.6428566"
+       x="0"
+       y="0"
+       transform="translate(0,982.36218)" />
+    <rect
+       y="982.36218"
+       x="0"
+       height="70"
+       width="70"
+       id="rect100078"
+       style="fill:url(#linearGradient100080);fill-opacity:1;stroke:none;filter:url(#filter100082);opacity:0.25" />
+  </g>
+</svg>
