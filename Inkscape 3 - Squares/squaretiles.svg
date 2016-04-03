@@ -10,7 +10,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="420"
-   height="70"
+   height="140"
    id="svg5903"
    version="1.1"
    inkscape:version="0.48.5 r10040"
@@ -29,12 +29,12 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
      inkscape:cx="224.56716"
-     inkscape:cy="12.5"
+     inkscape:cy="12.678571"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -67,9 +67,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-982.36218)">
+     transform="translate(0,-912.36218)">
     <rect
-       style="opacity:1;fill:#af7e14;fill-opacity:1"
+       style="fill:#af7e14;fill-opacity:1"
        id="rect5913"
        width="70"
        height="70"
@@ -203,7 +203,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <rect
-       style="opacity:1;fill:#af7e14;fill-opacity:1"
+       style="fill:#af7e14;fill-opacity:1"
        id="rect5913-8"
        width="70"
        height="70"
@@ -341,7 +341,7 @@
          style="opacity:0.4;fill:#00ff00;fill-opacity:1" />
     </g>
     <rect
-       style="opacity:1;fill:#af7e14;fill-opacity:1"
+       style="fill:#af7e14;fill-opacity:1"
        id="rect5913-4"
        width="70"
        height="70"
@@ -471,7 +471,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <rect
-       style="opacity:1;fill:#af7e14;fill-opacity:1"
+       style="fill:#af7e14;fill-opacity:1"
        id="rect5913-7"
        width="70"
        height="70"
